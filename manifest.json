@@ -1,0 +1,1 @@
+{"name": "Mamãe Moeda Bank", "short_name": "Mamãe Moeda", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#060d0b", "theme_color": "#0a3d31", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
